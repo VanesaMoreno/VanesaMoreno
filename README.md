@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Vanesa</h1>
-<h3 align="left">Una apasionada desarrolladora frontend ...de Argentina incorporando tecnologias del back</h3>
+<h3 align="left">Una apasionada  estudiante desarrolladora frontend ...de Argentina incorporando tecnologias del back</h3>
 <h4 align="left">Estudiante de Tecnicatura en Programacion de la UTN-San Rafael -Mendoza</h4>
 ---
 
